@@ -1,0 +1,1 @@
+Circuito de Flip Flop JK na plataforma LogiSim

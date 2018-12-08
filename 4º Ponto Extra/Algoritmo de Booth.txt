@@ -1,0 +1,6 @@
+Algortitmo de Booth implementado em C
+
+Incompleto, pois somente descobri o que faltava após o Deadline.
+
+O que falta é a conservação do bit mais significativo, e não levá-lo
+em consideração durante as operações.

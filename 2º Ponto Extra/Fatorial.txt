@@ -1,0 +1,1 @@
+Código Do Fatorial de um número N em MIPS
